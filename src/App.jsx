@@ -7,7 +7,7 @@ import {add,subtract} from './utility'
 import Sample from './component/Sample'
 import HomePage from './component/HomePage'
 import Contact from './component/Contact'
-import { Route, Routes } from 'react-router-dom'
+import { Route, Routes } from 'react-router-dom.'
 import Profile from './component/Profile'
 
 
